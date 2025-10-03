@@ -31,6 +31,3 @@ JavaScript (ES6) – Functionality (add/delete tasks, event delegation)
 2.Mark tasks as completed
 
 3.Add simple CSS styling for better UI and UX
-
-
-# new features
