@@ -24,4 +24,7 @@ JavaScript (ES6) – Functionality (add/delete tasks, event delegation)
 
 1.Add localStorage support to save tasks
 2.Mark tasks as completed
+
 3.Add simple CSS styling for better UI and UX
+3.Add simple CSS styling for better UI and Experience
+
