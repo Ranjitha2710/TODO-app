@@ -16,6 +16,7 @@ This project demonstrates DOM manipulation and event delegation in JavaScript.
 # Technologies Used
 
 HTML5 – Structure of the app
+
 JavaScript (ES6) – Functionality (add/delete tasks, event delegation)
 
 # Project Structure
